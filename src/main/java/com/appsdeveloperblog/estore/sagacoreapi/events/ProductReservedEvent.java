@@ -1,4 +1,4 @@
-package com.appsdeveloperblog.estore.core.events;
+package com.appsdeveloperblog.estore.sagacoreapi.events;
 
 import lombok.Builder;
 import lombok.Data;

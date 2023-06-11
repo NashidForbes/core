@@ -1,4 +1,4 @@
-package com.appsdeveloperblog.estore.core.commands;
+package com.appsdeveloperblog.estore.sagacoreapi.commands;
 
 import org.axonframework.modelling.command.TargetAggregateIdentifier;
 
